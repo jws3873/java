@@ -1,0 +1,22 @@
+public class Ex14_0 {
+
+	public static void main(String[] args) {
+		
+		MyFunction1 f1 = (a,b) -> a>b?a:b;
+		MyFunction1 f2 = new MyFunction1() {
+			@Override
+			public int max(int a, int b) { //오버라이딩 규칙 - 접근제어자는 조상보다 적게 못한다.
+				// TODO Auto-generated method stub
+				return a>b?a:b;
+			}
+		};
+		int value = f2.max(3,5);
+		System.out.println(value);
+		
+}
+}
+@FunctionalInterface
+interface MyFunction1{
+//	public abstract int max(int a,int b);
+	int max(int a,int b);
+}

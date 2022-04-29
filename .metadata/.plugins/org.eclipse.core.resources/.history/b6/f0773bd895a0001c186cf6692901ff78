@@ -1,0 +1,19 @@
+public class Ex14_0 {
+
+	public static void main(String[] args) {
+		
+		MyFunction f1 = (a,b) -> a>b?a:b;
+		MyFunction f2 = new MyFunction() {
+			@Override
+			public int max(int a, int b) {
+				// TODO Auto-generated method stub
+				return a>b?a:b;
+			}
+		};
+		
+}
+}
+@FunctionalInterface
+interface MyFunction{
+	public abstract int max(int a,int b);
+}

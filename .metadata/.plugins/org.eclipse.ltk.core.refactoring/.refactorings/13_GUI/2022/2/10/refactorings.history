@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;JAVA_GUIProject/src/images&apos;&#x0D;&#x0A;- Original project: &apos;13_GUI&apos;&#x0D;&#x0A;- Destination element: &apos;JAVA_GUIProject/src/images&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     icon3.png&#x0D;&#x0A;     icon4.png&#x0D;&#x0A;     icon2.png&#x0D;&#x0A;     icon1.png" description="Copy files" destination="=JAVA_GUIProject/src&lt;images" element1="images/icon3.png" element2="images/icon4.png" element3="images/icon2.png" element4="images/icon1.png" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646050423870" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FriendsVO.java&apos; to &apos;KakaoTalk_Team/src/teamproject&apos;&#x0D;&#x0A;- Original project: &apos;JAVA_GUIProjectTest&apos;&#x0D;&#x0A;- Destination element: &apos;KakaoTalk_Team/src/teamproject&apos;&#x0D;&#x0A;- Original element: &apos;Project.FriendsVO.java&apos;" description="Copy compilation unit" destination="=KakaoTalk_Team/src&lt;teamproject" element1="/src&lt;Project{FriendsVO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1647220616770" units="1" version="1.0"/>
+</session>

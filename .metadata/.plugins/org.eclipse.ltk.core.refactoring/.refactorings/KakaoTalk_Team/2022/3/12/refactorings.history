@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;teamproject.FriendsVO&apos; to &apos;FriendVO&apos;&#x0D;&#x0A;- Original project: &apos;KakaoTalk_Team&apos;&#x0D;&#x0A;- Original element: &apos;teamproject.FriendsVO&apos;&#x0D;&#x0A;- Renamed element: &apos;teamproject.FriendVO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FriendsVO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;teamproject{FriendsVO.java[FriendsVO" matchStrategy="1" name="FriendVO" qualified="false" references="true" similarDeclarations="false" stamp="1647220638645" textual="false" version="1.0"/>
+</session>
